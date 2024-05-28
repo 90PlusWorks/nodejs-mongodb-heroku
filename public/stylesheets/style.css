@@ -42,10 +42,12 @@ a {
   color: #00B7FF;
 }
 a.button {
-    padding: 1px 6px;
-    border: 1px outset buttonborder;
+    padding: 3px 6px;
+    border: 3px outset brand-gold;
     border-radius: 3px;
-    color: buttontext;
-    background-color: buttonface;
+    color: white;
+    background-color: brand-gold-light;
     text-decoration: none;
+    font-weight: 900;
+    
 }
