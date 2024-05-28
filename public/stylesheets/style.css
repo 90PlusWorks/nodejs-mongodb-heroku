@@ -11,10 +11,11 @@ width: 100%;
 height: 100%;
 $brand-maroon: #60223b;
 $brand-gray: #8c979a;
+$brand-gold: rgb(255,230,200);
 $brand-gold: #967140;
 $brand-maroon-light: rgb(255,210,220);
 $brand-gray-light: rgb(232,250,255);
-$brand-gold: rgb(255,230,200);
+$brand-gold-light: rgb(255,240,220);
 font-family: Tahoma, Menlo, Courier, Tahoma, sans-serif;
 font-size: 15px;
 }
