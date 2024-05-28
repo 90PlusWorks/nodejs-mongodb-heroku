@@ -43,10 +43,10 @@ a {
 }
 a.button {
     padding: 3px 6px;
-    border: 3px outset brand-gold;
+    border: 3px outset brown;
     border-radius: 3px;
     color: white;
-    background-color: brand-gold-light;
+    background-color: brand-gold;
     text-decoration: none;
     font-weight: 900;
     
