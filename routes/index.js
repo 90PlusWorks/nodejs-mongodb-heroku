@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-    res.render('index', {compliments: ['Awesome', 'Cool', 'The best programmer over the world']});
+    res.render('index', {compliments: ['Enquire', 'Envision', 'Inspire','It works']});
 });
 
 router.get('/test/:id', function (req, res, next) {
